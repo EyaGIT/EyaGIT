@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eya Ben El KADHI</h1>
-<h3 align="center">🎓 Software Engineering Student at ISI 💡 Passionate about Development, DevOps, Big Data, Business Intelligence, AI & Machine Learning</h3>
+<h3 align="center">🎓 Software Engineering Student at ISI </h3>
+<h3>💡 Passionate about Development, DevOps, Big Data, Business Intelligence, AI & Machine Learning</h3>
 <h2>🎓 Education</h2>
 
 <ul>

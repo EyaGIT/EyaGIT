@@ -1,8 +1,28 @@
 <h1 align="center">Hi 👋, I'm Eya Ben El KADHI</h1>
 <h3 align="center">🎓 Software Engineering Student at ISI 💡 Passionate about Development, DevOps, Big Data, Business Intelligence, AI & Machine Learning</h3>
-## 🎓 Education
-- **Software Development Engineering** - Higher Institute of Computer Science (ISI) (2023 - Present)  
-- **Bachelor’s Degree in Computer Science** - Faculty of Science, Tunis El Manar University (2020 - 2023)  
+<h2>🎓 Education</h2>
+
+<ul>
+  <li>
+    <strong>📌 Higher Institute of Computer Science (ISI)</strong>  
+    <br>📅 <em>2023 - Present</em>  
+    <br>🔹 Software Development Engineering  
+  </li>
+  <br>
+  <li>
+    <strong>📌 Faculty of Science, Tunis El Manar University</strong>  
+    <br>📅 <em>2020 - 2023</em>  
+    <br>🔹 Bachelor's Degree in Computer Science  
+   
+  </li>
+</ul>
+
+
+
+
+
+
+
  
 
 
